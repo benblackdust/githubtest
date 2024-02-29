@@ -1,1 +1,2 @@
 # githubtest
+pip install torch
